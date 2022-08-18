@@ -1,0 +1,24 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+}
+
+.Templete {
+    margin-top: 60px;
+    width: 800px;
+    height: 100%;
+    
+}
+
+.title {
+    width: 800px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background-color: lightblue;
+    font-size: 28px;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px; 
+}
